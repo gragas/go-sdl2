@@ -29,7 +29,7 @@ package mix
 import "C"
 import "unsafe"
 import "reflect"
-import "github.com/veandco/go-sdl2/sdl"
+import "github.com/gragas/go-sdl2/sdl"
 
 // Chunk (https://www.libsdl.org/projects/SDL_mixer/docs/SDL_mixer_85.html)
 type Chunk struct {

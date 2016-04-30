@@ -5,7 +5,7 @@ package main
 import (
 	"fmt"
 	"github.com/go-gl/gl/v2.1/gl"
-	"github.com/veandco/go-sdl2/sdl"
+	"github.com/gragas/go-sdl2/sdl"
 )
 
 func main() {

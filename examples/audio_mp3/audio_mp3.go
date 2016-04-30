@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 
-	"github.com/veandco/go-sdl2/sdl"
-	"github.com/veandco/go-sdl2/sdl_mixer"
+	"github.com/gragas/go-sdl2/sdl"
+	"github.com/gragas/go-sdl2/sdl_mixer"
 )
 
 func main() {
